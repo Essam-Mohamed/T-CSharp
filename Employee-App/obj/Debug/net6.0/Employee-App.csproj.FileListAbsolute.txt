@@ -1,0 +1,108 @@
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.AssemblyReference.cache
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.GeneratedMSBuildEditorConfig.editorconfig
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfoInputs.cache
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfo.cs
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CoreCompileInputs.cache
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.exe
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.deps.json
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.runtimeconfig.json
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.pdb
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CopyComplete
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\refint\Employee-App.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.pdb
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.genruntimeconfig.cache
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\ref\Employee-App.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Aspose.HTML.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+H:\E\Programming\Tasks\Rare Crew\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.exe
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.deps.json
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.runtimeconfig.json
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.pdb
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Aspose.HTML.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.AssemblyReference.cache
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfoInputs.cache
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfo.cs
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CoreCompileInputs.cache
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CopyComplete
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\refint\Employee-App.dll
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.pdb
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.genruntimeconfig.cache
+C:\Users\Essam\Desktop\Task C#\C#\C# Task\Employee-App\Employee-App\obj\Debug\net6.0\ref\Employee-App.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.exe
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.deps.json
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.runtimeconfig.json
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.pdb
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Aspose.HTML.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.AssemblyReference.cache
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfoInputs.cache
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfo.cs
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CoreCompileInputs.cache
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CopyComplete
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\refint\Employee-App.dll
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.pdb
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.genruntimeconfig.cache
+C:\Users\Essam\Desktop\New folder (5)\Employee-App\Employee-App\obj\Debug\net6.0\ref\Employee-App.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.exe
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.deps.json
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.runtimeconfig.json
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Employee-App.pdb
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Aspose.HTML.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.AssemblyReference.cache
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfoInputs.cache
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.AssemblyInfo.cs
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CoreCompileInputs.cache
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.csproj.CopyComplete
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\refint\Employee-App.dll
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.pdb
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\Employee-App.genruntimeconfig.cache
+C:\Users\Essam\Desktop\Employee-App\Employee-App\obj\Debug\net6.0\ref\Employee-App.dll
